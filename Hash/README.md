@@ -1,1 +1,1 @@
-https://github.com/ArtikLamartik/ProgrammingProjects/Hash
+https://github.com/ArtikLamartik/Hash
